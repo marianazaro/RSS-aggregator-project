@@ -21,7 +21,7 @@
     "webpack-dev-server": "^4.11.1",
     "workbox-webpack-plugin": "^6.5.4"
   },
-  "name": "my-webpack-project",
+  "name": "@hexlet/code",
   "description": "My webpack project",
   "version": "1.0.0",
   "main": "index.jsx",
