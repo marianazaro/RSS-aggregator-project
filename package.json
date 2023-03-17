@@ -205,5 +205,8 @@
   "bugs": {
     "url": "https://github.com/marianazaro/frontend-project-11/issues"
   },
-  "homepage": "https://github.com/marianazaro/frontend-project-11#readme"
+  "homepage": "https://github.com/marianazaro/frontend-project-11#readme",
+  "src": {
+    "index.js": "src/index.js"
+  }
 }
