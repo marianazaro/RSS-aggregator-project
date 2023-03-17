@@ -24,7 +24,7 @@
   "name": "@hexlet/code",
   "description": "My webpack project",
   "version": "1.0.0",
-  "main": "index.jsx",
+  "main": "index.js",
   "dependencies": {
     "acorn": "^8.8.2",
     "acorn-jsx": "^5.3.2",
