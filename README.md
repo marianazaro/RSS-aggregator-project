@@ -9,7 +9,7 @@ Rss Reader is a service for aggregating RSS feeds, with the help of which it is 
 ### Site:
 https://frontend-project-11-kdihde3r3-marianazaro.vercel.app/
 
-### Installation and Startup Guide:
+### Setup and startup
 
     $ git clone https://github.com/marianazaro/frontend-project-11
     make install
