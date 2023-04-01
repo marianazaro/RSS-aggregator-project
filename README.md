@@ -12,9 +12,9 @@ https://frontend-project-11-kdihde3r3-marianazaro.vercel.app/
 ### Installation and Startup Guide:
 
     $ git clone https://github.com/marianazaro/frontend-project-11
-    make install - install the dependecies:
-    make develop - start webpack server for development
-    make build - build production 
+    make install
+    make develop
+    make build
 
 ### Tools used
 - webpack
